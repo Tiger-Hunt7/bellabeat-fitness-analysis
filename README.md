@@ -1,12 +1,13 @@
 # Bellabeat Fitness Data Analysis
 
 **Capstone Project | Google Data Analytics Certificate**  
-**Tools:** Python, Pandas, Tableau, Excel  
+**Tools:** Python, Pandas, Tableau, MS Power Point  
 **Focus:** Smart device usage trends, behavioral analysis, marketing insights
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-lightgrey)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![MS Power Point](https://img.shields.io/badge/MS%20Power%20Point-Presentation-pink)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 
 ## Project Overview
