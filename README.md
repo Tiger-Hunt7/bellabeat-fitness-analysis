@@ -90,3 +90,8 @@ Based on the analysis:
 - Marketing campaigns should emphasize **daily activity tracking features**.
 - Engagement strategies could focus on **encouraging consistent activity habits**.
 - Bellabeat may benefit from highlighting **habit-forming wellness features** in its messaging.
+
+## Data Source
+
+The dataset used in this analysis was provided via Kaggle as part of the Bellabeat case study.  
+[View FitBit Fitness Tracker Data Here]([https://public.tableau.com/views/Capstone_Data_Analyst_Google/Dashboard1](https://www.kaggle.com/datasets/arashnic/fitbit))
