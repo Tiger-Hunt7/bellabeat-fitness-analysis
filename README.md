@@ -94,4 +94,4 @@ Based on the analysis:
 ## Data Source
 
 The dataset used in this analysis was provided via Kaggle as part of the Bellabeat case study.  
-[View FitBit Fitness Tracker Data Here]([https://public.tableau.com/views/Capstone_Data_Analyst_Google/Dashboard1](https://www.kaggle.com/datasets/arashnic/fitbit))
+[View FitBit Fitness Tracker Data Here](https://www.kaggle.com/datasets/arashnic/fitbit)
