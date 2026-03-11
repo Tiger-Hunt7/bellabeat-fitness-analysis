@@ -1,5 +1,9 @@
 # Bellabeat Fitness Data Analysis
 
+**Capstone Project | Google Data Analytics Certificate**  
+**Tools:** Python, Pandas, Tableau, Excel  
+**Focus:** Smart device usage trends, behavioral analysis, marketing insights
+
 ## Project Overview
 As part of the Google Data Analytics Certificate Capstone, this project analyzes smart device usage data to identify behavioral trends and generate marketing insights for the Bellabeat Leaf wellness product.
 
