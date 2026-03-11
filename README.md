@@ -5,6 +5,8 @@
 **Tools:** Python, Pandas, Tableau, Excel  
 **Focus:** Smart device usage trends, behavioral analysis, marketing insights
 
+![Certificate](https://img.shields.io/badge/Google-Data%20Analytics%20Capstone-yellow)
+
 ## Project Overview
 As part of the Google Data Analytics Certificate Capstone, this project analyzes smart device usage data to identify behavioral trends and generate marketing insights for the Bellabeat Leaf wellness product.
 
