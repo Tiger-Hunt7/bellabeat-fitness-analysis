@@ -69,7 +69,7 @@ The data was processed and analyzed to identify patterns in user activity behavi
 
 Interactive Tableau dashboard:
 
-https://public.tableau.com/views/Capstone_Data_Analyst_Google/Dashboard1
+[View the Tableau Dashboard](https://public.tableau.com/views/Capstone_Data_Analyst_Google/Dashboard1)
 
 ---
 
